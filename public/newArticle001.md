@@ -1,7 +1,7 @@
 ---
 title: テスト記事
 tags:
-  - ''
+  - 'test'
 private: true
 updated_at: ''
 id: null
